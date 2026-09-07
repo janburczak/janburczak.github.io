@@ -4,14 +4,24 @@ title: Teaching &amp; supervision
 description: Teaching, supervision and academic service of Jan Burczak, Leipzig University.
 ---
 
-Current course pages and materials are on the
-[Leipzig faculty site](https://www.math.uni-leipzig.de/).
 {: .page-intro}
 
 ## Courses
 
 2019–2026
-: **Leipzig University.** The full undergraduate analysis curriculum for physicists (*Mathematics for Physics I–IV*, 80–150 students, taught three times) and five graduate courses, including *Advanced Functional Analysis*, *Continuum Mechanics* and *Euler Equation*; three postgraduate seminars
+: **Leipzig University.** 2019 – 2026 in English: 
+-	Lecture: Advanced Functional Analysis for Physics, (graduate level, ca 20 students)
+-	Lecture Mathematics for Physics I-IV (entire undergraduate curriculum in analysis, 80-150 students, performed three times, including two semesters online due to lockdowns)
+-	Lecture Continuum Mechanics (graduate level, ca 30 students)
+-	Lecture Euler Equation (graduate/postgraduate level, ca 20 students)
+-	Lecture Compressible Flows (graduate level, ca 10 students)
+-	Seminar Littlewood-Paley theory (graduate level, ca 10 students) 
+-	Seminar Frisch’s Turbulence (postgraduate level)
+-	Seminar Singularity in Fluid Dynamics (postgraduate level)
+
+in German: Hörsaalübung Mathematik I, II (undergraduate level, ca 20 students)
+
+
 
 2017
 : **University of Oxford.** Reading course *Nonlinear Analysis and Applications*, OxPDE
@@ -41,11 +51,8 @@ Current course pages and materials are on the
 2023 –
 : Member of several Thesis Advisory Committees, MPI MiS Leipzig
 
-2022
-: Coordinator of the humanitarian relief action for Ukraine, Leipzig University
-
-2019–2023
-: Oberseminar Analysis, Leipzig University & MPI MiS
+2023 -
+: Organiser of Oberseminar Analysis, Leipzig University & MPI MiS
 
 2019
 : Co-organiser, ERC Seminar of L. Székelyhidi Jr., Leipzig University
@@ -66,9 +73,11 @@ Kinetic and Related Models, Mathematical Methods in the Applied Sciences, Mathem
 Nachrichten, Nonlinear Analysis, Nonlinearity, Topological Methods in Nonlinear Analysis;
 reviewer for Mathematical Reviews and for the National Science Centre (Poland).
 
-Member of the GAMM Activity Group *Analysis of Partial Differential Equations*.
 
-## Outreach
+## Other/Outreach
+
+2022
+: Coordinator of the humanitarian relief action for Ukraine, Leipzig University
 
 2018
 : OxPDE representative at the Graduate Days, University of Oxford
