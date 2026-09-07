@@ -18,7 +18,7 @@ equations, non-Newtonian flows, the related toy models, and chemotaxis.
 
 * * *
 
-## Selected results
+## Current Research and Selected Results
 
 ### Anomalous dissipation and turbulent transport
 
