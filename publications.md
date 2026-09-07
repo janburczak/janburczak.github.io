@@ -11,7 +11,7 @@ Newest first. Preprints are on [arXiv](https://arxiv.org/search/?searchtype=auth
      The numbers are produced automatically and count down, so you never
      renumber anything. Keep every line starting with "1." — that is correct. -->
 
-1. **Non-unique power-law flows with any *p* ≥ 2** (with S. Schiffer) — submitted
+1. **Non-unique power-law flows with any *p* \not 2** (with S. Schiffer) — in preparation
 1. **Scalar anomalous dissipation and optimal regularity via iterated homogenization** (with L. Székelyhidi Jr., B. Wu) — [arXiv:2604.13912](https://arxiv.org/abs/2604.13912)
 1. **Pathological solutions of Navier–Stokes equations on T² with gradients in Hardy spaces** (with A. Hidalgo) — Journal of Functional Analysis, to appear
 1. **Anomalous dissipation and Euler flows** (with L. Székelyhidi Jr., B. Wu) — Journal of the European Mathematical Society, to appear
