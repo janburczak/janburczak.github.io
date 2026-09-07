@@ -4,29 +4,26 @@ title: Teaching &amp; supervision
 description: Teaching, supervision and academic service of Jan Burczak, Leipzig University.
 ---
 
-{: .page-intro}
-
 ## Courses
 
-2019–2026
-: **Leipzig University.** 2019 – 2026 in English: 
--	Lecture: Advanced Functional Analysis for Physics, (graduate level, ca 20 students)
--	Lecture Mathematics for Physics I-IV (entire undergraduate curriculum in analysis, 80-150 students, performed three times, including two semesters online due to lockdowns)
--	Lecture Continuum Mechanics (graduate level, ca 30 students)
--	Lecture Euler Equation (graduate/postgraduate level, ca 20 students)
--	Lecture Compressible Flows (graduate level, ca 10 students)
--	Seminar Littlewood-Paley theory (graduate level, ca 10 students) 
--	Seminar Frisch’s Turbulence (postgraduate level)
--	Seminar Singularity in Fluid Dynamics (postgraduate level)
+2019 – 2026
+: **Leipzig University**, in English:
 
-in German: Hörsaalübung Mathematik I, II (undergraduate level, ca 20 students)
+    - Lecture: *Advanced Functional Analysis for Physics* (graduate level, ca 20 students)
+    - Lecture: *Mathematics for Physics I–IV* (the entire undergraduate curriculum in analysis, 80–150 students, taught three times, including two semesters online during the lockdowns)
+    - Lecture: *Continuum Mechanics* (graduate level, ca 30 students)
+    - Lecture: *Euler Equation* (graduate/postgraduate level, ca 20 students)
+    - Lecture: *Compressible Flows* (graduate level, ca 10 students)
+    - Seminar: *Littlewood–Paley Theory* (graduate level, ca 10 students)
+    - Seminar: *Frisch's Turbulence* (postgraduate level)
+    - Seminar: *Singularity in Fluid Dynamics* (postgraduate level)
 
-
+    In German: *Hörsaalübung Mathematik I, II* (undergraduate level, ca 20 students)
 
 2017
 : **University of Oxford.** Reading course *Nonlinear Analysis and Applications*, OxPDE
 
-2011–2012
+2011 – 2012
 : **University of Warsaw.** Tutorials in *Analysis I–II*
 
 ## Supervision
@@ -37,7 +34,7 @@ in German: Hörsaalübung Mathematik I, II (undergraduate level, ca 20 students)
 2024 –
 : Ph.D., Jona Stahlschmidt, Leipzig University (jointly with J. Hirsch)
 
-2023–24
+2023 – 2024
 : B.Sc. thesis, Dana Serbu, Leipzig University
 
 2019
@@ -51,8 +48,8 @@ in German: Hörsaalübung Mathematik I, II (undergraduate level, ca 20 students)
 2023 –
 : Member of several Thesis Advisory Committees, MPI MiS Leipzig
 
-2023 -
-: Organiser of Oberseminar Analysis, Leipzig University & MPI MiS
+2023 –
+: Organiser of the Oberseminar Analysis, Leipzig University & MPI MiS
 
 2019
 : Co-organiser, ERC Seminar of L. Székelyhidi Jr., Leipzig University
@@ -60,7 +57,7 @@ in German: Hörsaalübung Mathematik I, II (undergraduate level, ca 20 students)
 2018
 : Co-organiser, Navier–Stokes Group Seminar, OxPDE, University of Oxford
 
-2015–2016
+2015 – 2016
 : Co-organiser, Partial Differential Equations Seminar, IMPAN Warsaw
 
 2015
@@ -73,8 +70,7 @@ Kinetic and Related Models, Mathematical Methods in the Applied Sciences, Mathem
 Nachrichten, Nonlinear Analysis, Nonlinearity, Topological Methods in Nonlinear Analysis;
 reviewer for Mathematical Reviews and for the National Science Centre (Poland).
 
-
-## Other/Outreach
+## Other / outreach
 
 2022
 : Coordinator of the humanitarian relief action for Ukraine, Leipzig University
