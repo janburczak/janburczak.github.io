@@ -11,6 +11,8 @@ My scientific interests revolve around well-posedness questions of partial diffe
 stemming from natural and life sciences, including incompressible and compressible Navier-Stokes
 equations, non-Newtonian flows, the related toy models, and chemotaxis.
 
+The current highlights of my research include
+
 ## Anomalous dissipation and turbulent transport
 
 *with L. Székelyhidi Jr. and B. Wu*
