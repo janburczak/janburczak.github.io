@@ -4,7 +4,6 @@
 # ---------------------------------------------------------------------------
 
 title: Jan Burczak
-tagline: Partial Differential Equations
 description: >-
   Jan Burczak, Faculty of Mathematics, Leipzig University. Nonlinear partial
   differential equations, regularity vs singularity regimes, hydrodynamics.
@@ -27,8 +26,6 @@ cv_pdf: assets/BurczakCV.pdf
 nav:
   - name: Home
     url: /
-  - name: Research
-    url: /research.html
   - name: Publications
     url: /publications.html
   - name: Talks
