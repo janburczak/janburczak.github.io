@@ -35,7 +35,7 @@ PDEs, used to settle the zeroth law of scalar turbulence.
 
 - Ill-posedness of power-law models via quadratic nonlinearity, for small *p* (with S. Modena,
   L. Székelyhidi Jr.). *CMP 2021*{: .venue}
-- Ill-posedness of power-law models via quasilinearity, for every *p* ≥ 2 (with S. Schiffer).
+- Ill-posedness of power-law models via quasilinearity, for every *p* \not 2 (with S. Schiffer).
   *submitted*{: .venue}
 - Very weak solutions of the 2d Navier–Stokes equations with full gradient controlled (with
   A. Hidalgo). *JFA, to appear*{: .venue}
