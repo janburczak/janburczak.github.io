@@ -19,9 +19,6 @@ affiliation_lines:
 # Leave it blank (photo:) and a grey placeholder is shown instead.
 photo: # assets/photo.jpg
 
-# CV PDF. Upload it to assets/ and put its file name here.
-cv_pdf: assets/BurczakCV.pdf
-
 # The menu across the top. Reorder or remove lines to change the menu.
 nav:
   - name: Home
@@ -32,8 +29,6 @@ nav:
     url: /talks.html
   - name: Teaching
     url: /teaching.html
-  - name: CV
-    url: /cv.html
 
 # --- technical, leave alone unless you know you need to change it ----------
 # If the site lives at https://USERNAME.github.io  -> leave baseurl empty.
