@@ -86,21 +86,29 @@ July 2012
 
 ## Invited seminar talks
 
-April 2026: Analysis Seminar, Stony Brook University, Talk: Scalar anomalous dissipation
+April 2026
+: Analysis Seminar, Stony Brook University, Talk: Scalar anomalous dissipation
 
-April 2026: PDE Seminar, Princeton University, Talk: Scalar anomalous dissipation
+April 2026
+: PDE Seminar, Princeton University, Talk: Scalar anomalous dissipation
 
-Feb 2025: PDE Seminar, Seoul National University & Yonsei University, Talk: Euler-driven scalar anomalous dissipation
+Feb 2025
+: PDE Seminar, Seoul National University & Yonsei University, Talk: Euler-driven scalar anomalous dissipation
 
-Jan 2025: Analysis Seminar, Universität Münster, Talk: Euler-driven scalar anomalous dissipation
+Jan 2025
+: Analysis Seminar, Universität Münster, Talk: Euler-driven scalar anomalous dissipation
 
-Dec 2023: Analysis Seminar, ETH Zürich, Talk: Euler-driven scalar anomalous dissipation
+Dec 2023
+: Analysis Seminar, ETH Zürich, Talk: Euler-driven scalar anomalous dissipation
 
-Dec 2021: Analysis Seminar, University of Bath, Talk: Non-Newtonian fluids. From ketchup to convex integration 
+Dec 2021
+: Analysis Seminar, University of Bath, Talk: Non-Newtonian fluids. From ketchup to convex integration 
 
-Nov 2020: Analysis Seminar, GSSI L'Aquila, Talk: Non-Newtonian fluids. From ketchup to convex integration 
+Nov 2020
+: Analysis Seminar, GSSI L'Aquila, Talk: Non-Newtonian fluids. From ketchup to convex integration 
 
-March 2020: Analysis Seminar, University of Seville, Talk: Non-Newtonian fluids. From ketchup to convex integration 
+March 2020
+: Analysis Seminar, University of Seville, Talk: Non-Newtonian fluids. From ketchup to convex integration 
 
 Dec 2019
 : Angewandte Analysis Seminar, MPI MiS Leipzig, Germany. Talk: Global existence vs. finite-time blowup in chemotaxis models
