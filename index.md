@@ -43,11 +43,11 @@ be safely well-posed — by constructing non-unique solutions.
 
 - *Non-uniqueness of power-law flows* (with S. Modena, L. Székelyhidi Jr.) — ill-posedness driven
   by the quadratic nonlinearity, for small *p*. *CMP 2021*{: .venue}
-- *Non-unique power-law flows with any p ≠ 2* (with S. Schiffer) — ill-posedness driven by
-  quasilinearity, now for every *p* ≠ 2. *in preparation*{: .venue}
 - *Pathological solutions of Navier–Stokes equations on T² with gradients in Hardy spaces* (with
   A. Hidalgo) — very weak solutions in 2d, with the full gradient controlled.
   *JFA, to appear*{: .venue}
+- *Non-unique power-law flows with any p ≠ 2* (with S. Schiffer) — ill-posedness driven by
+  quasilinearity, now for every *p* ≠ 2. *in preparation*{: .venue}
 
 ### Fractional Keller–Segel systems
 
@@ -59,10 +59,10 @@ threshold, which makes them a sharp test case for critical and supercritical tec
 - *Critical Keller–Segel meets Burgers on S¹: large-time smooth solutions* — disproof of the
   finite-time blowup conjecture in the critical one-dimensional case.
   *Nonlinearity 2016*{: .venue}
-- *Suppression of blowup by a logistic source in the 2d fractional system* — regularity in certain
-  supercritical cases, damped logistically, 2d case. *JDE 2017*{: .venue}
 - *Global solutions for a supercritical drift-diffusion equation* — regularity in certain
   supercritical cases, damped logistically, 1d case. *Adv. Math. 2016*{: .venue}
+- *Suppression of blowup by a logistic source in the 2d fractional system* — regularity in certain
+  supercritical cases, damped logistically, 2d case. *JDE 2017*{: .venue}
 
 ### Well-posedness beyond duality pairing
 
