@@ -70,8 +70,5 @@ Member of the GAMM Activity Group *Analysis of Partial Differential Equations*.
 
 ## Outreach
 
-2018–2019
-: Co-mentor of an M.Sc. project, African Institute for Mathematical Sciences
-
 2018
 : OxPDE representative at the Graduate Days, University of Oxford
