@@ -17,7 +17,7 @@ affiliation_lines:
 
 # Portrait. Upload a photo to assets/ and put its file name here.
 # Leave it blank (photo:) and a grey placeholder is shown instead.
-photo: # assets/photo.jpg
+photo: # assets/JBg.jpg
 # Google Scholar profile (leave blank to hide the link)
 scholar: "https://scholar.google.com/citations?user=61t95yUAAAAJ&hl=en"
 
