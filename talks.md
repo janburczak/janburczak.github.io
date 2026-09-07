@@ -19,10 +19,10 @@ June 2025
 ## Conference and workshop talks
 
 July 2025
-: *Beyond the horizon: navigating turbulence, irregularity and stochasticity in fluid dynamics*, ICMS, Bayes Centre, Edinburgh, UK
+: *Beyond the horizon: navigating turbulence, irregularity and stochasticity in fluid dynamics*, ICMS, Bayes Centre, Edinburgh, UK Talk: Scalar anomalous dissipation
 
-2024
-: *Alhambra PDE Days*, Granada, Spain
+July 2024
+: *Alhambra PDE Days* (Satellite of ECM), Granada, Spain, Talk: Scalar anomalous dissipation driven by the Euler flow
 
 2022
 : *Convex Integration and Nonlinear Partial Differential Equations*, ICMS, Edinburgh, UK
@@ -86,6 +86,22 @@ July 2012
 
 ## Invited seminar talks
 
+April 2026, Analysis Seminar, Stony Brook University, Talk: Scalar anomalous dissipation
+
+April 2026, PDE Seminar, Princeton University, Talk: Scalar anomalous dissipation
+
+Feb 2025, PDE Seminar, Seoul National University & Yonsei University, Talk: Euler-driven scalar anomalous dissipation
+
+Jan 2025, Analysis Seminar, Universität Münster, Talk: Euler-driven scalar anomalous dissipation
+
+Dec 2023, Analysis Seminar, ETH Zürich, Talk: Euler-driven scalar anomalous dissipation
+
+Dec 2021, Analysis Seminar, University of Bath, Talk: Non-Newtonian fluids. From ketchup to convex integration 
+
+Nov 2020, Analysis Seminar, GSSI L'Aquila, Talk: Non-Newtonian fluids. From ketchup to convex integration 
+
+March 2020: Analysis Seminar, University of Seville, Talk: Non-Newtonian fluids. From ketchup to convex integration 
+
 Dec 2019
 : Angewandte Analysis Seminar, MPI MiS Leipzig, Germany. Talk: Global existence vs. finite-time blowup in chemotaxis models
 
@@ -101,8 +117,7 @@ May 2018
 Jan 2017
 : CDT PDE Seminar, University of Oxford, UK. Talk: Patlak–Keller–Segel equations
 
-Further analysis seminars at Edinburgh, Seoul National University, Münster, Bath, Leipzig,
-GSSI L'Aquila, Charles University Prague, Seville, Warsaw, Wrocław and ETH Zürich.
+Further analysis seminars at Bath, Leipzig, Prague, Warsaw, Wrocław 
 {: .small .muted}
 
 ## Schools and posters
