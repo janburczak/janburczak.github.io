@@ -58,11 +58,10 @@ which makes them a sharp test case for critical and supercritical techniques.
 - *Critical Keller–Segel meets Burgers on S¹: large-time smooth solutions* — disproof of the
   finite-time blowup conjecture in the critical one-dimensional case.
   *Nonlinearity 2016*{: .venue}
-- *Suppression of blowup by a logistic source in the 2d fractional system* - regularity in certain supercritical cases, damped logistically, 2d case
-  - *Global solutions for a supercritical drift-diffusion equation* — regularity in certain
+- *Suppression of blowup by a logistic source in the 2d fractional system* - regularity in certain supercritical cases, damped logistically, 2d case. *JDE 2017*{: .venue}
+- *Global solutions for a supercritical drift-diffusion equation* — regularity in certain
   supercritical cases, damped logistically, 1d case. *Adv. Math. 2016*{: .venue}
-  *JDE 2017*{: .venue}
-
+ 
 ### Well-posedness beyond duality pairing
 
 *with M. Bulíček and S. Schwarzacher*
