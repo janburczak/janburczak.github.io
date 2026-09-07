@@ -14,7 +14,7 @@ description: Lecture series, conference and seminar talks, posters and research 
 ## Lecture series
 
 June 2025
-: Summer school *PDE and Probability*, Sorbonne Université, Paris, 16–27 June. Course: *Anomalous dissipation and Euler flows* (alongside courses by M. Hairer and Z. Hani)
+: Summer school *PDE and Probability*, Sorbonne Université, Paris, 16–27 June. Course: *Anomalous dissipation and Euler flows* (alongside courses by S. Chatterjee, M. Hairer, Z. Hani, F. Hernandez, B. Toth)
 
 ## Conference and workshop talks
 
