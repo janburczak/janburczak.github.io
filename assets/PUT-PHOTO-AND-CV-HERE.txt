@@ -1,0 +1,1 @@
+Upload photo.jpg and BurczakCV.pdf into this folder, then point _config.yml at them.

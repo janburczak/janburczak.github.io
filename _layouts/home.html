@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{%- assign parts = content | split: '<hr />' -%}
+
+<section class="hero">
+  <div>
+    <h1>{{ site.title }}</h1>
+    <p class="role">
+      {%- for line in site.affiliation_lines -%}
+      {{ line }}{% unless forloop.last %}<br>{% endunless %}
+      {%- endfor -%}
+    </p>
+
+    {{ parts[0] }}
+
+    <ul class="contact">
+      <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      {%- if site.address %}<li>{{ site.address }}</li>{% endif %}
+      {%- if site.cv_pdf %}<li><a href="{{ site.cv_pdf | relative_url }}">CV (PDF)</a></li>{% endif %}
+    </ul>
+  </div>
+
+  {%- if site.photo %}
+  <img class="portrait" src="{{ site.photo | relative_url }}" alt="{{ site.title }}">
+  {%- else %}
+  <div class="portrait portrait-placeholder"><span>photo<br>set <code>photo:</code><br>in _config.yml</span></div>
+  {%- endif %}
+</section>
+
+{{ parts[1] }}

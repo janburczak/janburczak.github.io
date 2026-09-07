@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------------
+# Site settings. Edit the values on the right of the colons.
+# After any change here, GitHub rebuilds the site automatically (~1 minute).
+# ---------------------------------------------------------------------------
+
+title: Jan Burczak
+tagline: Partial Differential Equations
+description: >-
+  Jan Burczak, Faculty of Mathematics, Leipzig University. Nonlinear partial
+  differential equations, regularity vs singularity regimes, hydrodynamics.
+
+email: burczak@math.uni-leipzig.de
+address: Augustusplatz 10, 04109 Leipzig, Germany
+
+affiliation_lines:
+  - Lecturer, Faculty of Mathematics, Leipzig University
+  - Visiting Researcher, Max Planck Institute for Mathematics in the Sciences
+
+# Portrait. Upload a photo to assets/ and put its file name here.
+# Leave it blank (photo:) and a grey placeholder is shown instead.
+photo: # assets/photo.jpg
+
+# CV PDF. Upload it to assets/ and put its file name here.
+cv_pdf: assets/BurczakCV.pdf
+
+# The menu across the top. Reorder or remove lines to change the menu.
+nav:
+  - name: Home
+    url: /
+  - name: Research
+    url: /research.html
+  - name: Publications
+    url: /publications.html
+  - name: Talks
+    url: /talks.html
+  - name: Teaching
+    url: /teaching.html
+  - name: CV
+    url: /cv.html
+
+# --- technical, leave alone unless you know you need to change it ----------
+# If the site lives at https://USERNAME.github.io  -> leave baseurl empty.
+# If it lives at https://USERNAME.github.io/REPO/  -> set baseurl: "/REPO"
+baseurl: ""
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock]
