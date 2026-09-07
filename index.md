@@ -5,7 +5,7 @@ title: Home
 
 Welcome to my webpage! I am a mathematician specializing in partial differential equations.
 
-In spring 2019 I joined Mathematisches Institut, Universität Leipzig as a researcher, after a
+In spring 2019 I joined Mathematisches Institut, Universität Leipzig as a researcher and then lecturer, after a
 two-year postdoctoral stay at OxPDE, Mathematical Institute, University of Oxford. I obtained my
 PhD in 2015 from Institute of Mathematics, Polish Academy of Sciences.
 
